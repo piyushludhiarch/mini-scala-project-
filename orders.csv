@@ -1,0 +1,15 @@
+order_id,customer_id,order_date,amount,status
+1,c01,2026-09-01,250,complete
+2,c02,2026-09-01,500,cancelled
+3,c01,2026-09-02,125,complete
+4,c03,2026-09-02,800,complete
+5,c04,2026-09-03,300,complete
+6,c05,2026-09-03,450,complete
+7,c02,2026-09-04,700,complete
+8,c99,2026-09-05,600,complete
+9,c06,2026-09-05,150,complete
+10,c07,2026-09-06,900,cancelled
+11,c08,2026-09-06,400,complete
+12,c09,2026-09-07,275,complete
+13,c03,2026-09-07,180,complete
+14,c05,2026-09-08,320,complete
